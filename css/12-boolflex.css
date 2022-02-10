@@ -24,8 +24,9 @@
 
     /* aggiunto per l'esercizio ma e da togliere successivamente */
     background-color: #006cfa;
-    padding: 2px;
+    text-align: center;
     color: white;
+    border: 1px solid white;
 
 }
 
